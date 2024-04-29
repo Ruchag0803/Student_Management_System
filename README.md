@@ -46,10 +46,6 @@ This project is open to contributions. If you'd like to contribute, please follo
 - Push to the branch (`git push origin feature/YourFeature`).
 - Create a new Pull Request.
 
-## Known Issues
-
-- List any known issues or limitations here.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
